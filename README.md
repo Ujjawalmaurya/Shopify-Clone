@@ -2,8 +2,6 @@
 
 > # [Deployed Link Here](https://ujjawalmaurya.github.io/Shopify-Clone/)
 
-# SCREENSHOTS - for preview:
+# SCREENSHOT - for preview:
 
-![]()
-![]()
-![]()
+![](./Screenshot/complete-preview.png)
